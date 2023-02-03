@@ -1,3 +1,4 @@
+# ===============================================================
 # Title: LexiCodesOfficial/hosts
 #
 # This hosts file is a merged collection of hosts from reputable sources,
@@ -26,7 +27,7 @@ ff02::3 ip6-allhosts
 # Custom host records are listed here.
 # End of custom host records.
 
-#=====================================
+# =====================================
 # Title: Hosts contributed by LexiCodes
 # https://lexicodes.net
 
